@@ -6,7 +6,7 @@ namespace NetCoreCLI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello i name is LUIS!");
+            Console.WriteLine("Hello my name is LUIS!");
         }
     }
 }
